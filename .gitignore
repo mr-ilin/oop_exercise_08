@@ -47,6 +47,7 @@ Extra/
 extra
 build/*
 .cmake
+oop_exercise_08_Xcode/
 
 ### CMake Patch ###
 # External projects
